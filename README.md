@@ -1,6 +1,6 @@
 # Bankist app
 
-![posts](/img/bankist.png)
+![posts](img/bankist.png)
 
 ## Built with
 
