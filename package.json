@@ -1,0 +1,11 @@
+{
+  "name": "starter---copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "index.html --dist-dir ./dist"
+  },
+  "author": "Ana",
+  "license": "ISC"
+}
