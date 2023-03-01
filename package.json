@@ -1,10 +1,10 @@
 {
-  "name": "starter---copy",
+  "name": "Bankist",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "index.html --dist-dir ./dist"
+    "start": "index.html"
   },
   "author": "Ana",
   "license": "ISC"
